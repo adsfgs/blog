@@ -1,6 +1,6 @@
 # blog
-etalkr’s blog space
+adsfgs’s blog space
 
-https://github.com/etalkr/blog/issues
+https://github.com/adsfgs/blog/issues
 
-![](https://raw.githubusercontent.com/etalkr/blog/master/img/FD26B908-8979-4F74-AEB5-DB54663B2717.jpeg)
+![](https://raw.githubusercontent.com/adsfgs/blog/master/img/FD26B908-8979-4F74-AEB5-DB54663B2717.jpeg)
